@@ -1,0 +1,206 @@
+@media screen and (max-width: 1200px) {
+    .inner-logo {
+        margin-right: 8rem !important;
+
+    }
+
+    .about-content h3 {
+
+        font-size: 3rem;
+        padding-top: 10rem;
+
+    }
+    .about-content span {
+   
+        font-size: 1.6rem;
+      
+    }
+
+    .about-content p {
+        
+        font-size: 0.7rem;
+       
+    }
+
+    .usefor {
+     
+        padding: 1rem 0rem 2rem 0rem;
+    
+        margin: 0;
+    }
+    .usefor p {
+        
+        padding: 1.5rem 1rem 0rem 1rem;
+    }
+
+}
+
+
+@media screen and (max-width: 991px) {
+
+    .top-logo {
+        display: inline;
+
+    }
+
+    .inner-logo,
+    .main-logo {
+        display: none;
+    }
+
+
+    .about-content h3 {
+        font-size: 2rem;
+        padding-top: 5rem;
+    }
+
+    .about-content span {
+        font-size: 1.2rem;
+    }
+    .about-content p {
+        font-size: 0.6rem;
+    }
+
+    .about-content a {
+        background-color: #ffffff;
+        padding: 0.75rem 1.25rem;
+        color: #000000;
+        border-radius: 1.5rem;
+        font-size: 12px;
+        text-decoration: none;
+    }
+
+   
+
+
+    .fade-up-head {
+        font-family: Syne, sans-serif;
+        letter-spacing: 2px;
+        font-weight: 600;
+        margin: 3rem 0 4rem 0;
+        padding: 0 11rem;
+        text-align: center;
+        
+        color: #fff !important;
+    }
+
+
+    .usefor {
+        padding: 1rem 6rem 2rem 6rem;
+        margin: 6rem;
+    }
+
+
+    .categories-cards-content h3 {
+        color: #121212;
+       
+        font-size: 1rem;
+        padding-top: 0.2rem;
+        padding-bottom: 0.2rem;
+    }
+  
+    .accordian-content-heding h2 {
+     
+        font-size: 3.5rem;
+    }
+
+    .kit-content {
+     
+        padding: 7rem 0;
+      
+    }
+
+    .footer-link h5 {
+        font-size: 1rem !important;
+       }
+
+       .footer-link li, p {
+    
+        font-size: 8px;
+ 
+        font-weight: 400;
+ 
+    }
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+    .fade-up-head {
+       
+        padding: 0px 6rem;
+        
+    }
+
+    .categories-head {
+     
+        font-size: 1.7rem;
+      
+
+        padding: 3rem;
+       
+    }
+    .footer-link  form {
+       
+        max-width: 8rem;
+    }
+    .footer-link h5 {
+     font-size: 0.8rem !important;
+    }
+
+    .usefor {
+        padding: 1rem 0rem 2rem 0rem;
+        margin: 6rem;
+    }
+    .usefor h2 {
+        margin-top: 1rem;
+        
+        font-weight: 600;
+       
+        font-size: 1.2rem;
+      
+    }
+    .usefor p {
+        padding: 1rem 1rem 0rem 1rem;
+    }
+
+    .accordian-content-heding h2 {
+        font-size: 2.5rem;
+    }
+    .accordian-content-heding span {
+      
+      
+        font-size: 1.2rem;
+    
+    }
+
+    .accordion-button {
+       
+        font-size: 0.8rem;
+
+    }
+    .accordion-body {
+   
+        font-size: 12px !important;
+       
+    }
+    .categories-cards {
+        overflow: hidden;
+        margin: 1rem 0;
+    }
+}
+
+@media screen and (max-width: 425px) {
+  
+    .fade-up-head {
+        padding: 0px 1.2rem;
+        font-weight: 500;
+    }
+    .usefor {
+        padding: 1rem 0rem 2rem 0rem;
+        margin: 2rem;
+    }
+
+}
