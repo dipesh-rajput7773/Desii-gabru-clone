@@ -89,7 +89,9 @@ section.feature-sec {
     background-color: #121212;
 }
 
-
+.owl-dots {
+    display: none;
+}
 
 
 /* slider  */
