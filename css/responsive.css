@@ -122,11 +122,26 @@
  
     }
 
+    
+    .navbar-nav {
+    
+        background: rgba(0,0,0,.5) !important;
+        backdrop-filter: blur(2em) !important;
+    }
+    .nav-link {
+       
+        color: #ffffff !important;
+    }
+    .navbar-expand-lg .navbar-nav {
+        align-items: flex-start !important;
+    }
+
 }
 
 
 
 @media screen and (max-width: 768px) {
+
 
     .fade-up-head {
        

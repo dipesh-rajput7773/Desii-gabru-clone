@@ -611,3 +611,57 @@ footer {
 
 
 
+.navbar-light .navbar-toggler-icon {
+    background-image: url("/asset/images/menu.png");
+}
+
+.navbar-light .navbar-toggler {
+    padding: 0 !important; 
+    border-color:transparent !important;
+ 
+}
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* about */
+
+.about-header {
+    background-color: #000000;
+}
+.bg-dark {
+    background-color: #000000!important;
+}
+
+.about-banner-img img {
+    width: 100vw;
+}
+.about-banner-img  {
+overflow-x: hidden !important;
+}
+
+.about-nav ul li a.nav-link {
+    color: #fff !important;
+}
+
+.mission-img img {
+    max-width:100%;
+}
